@@ -1,0 +1,4 @@
+En este archivo hice la primera consigna: 
+https://github.com/Florencia-study/repo_TP2
+
+La consigna de clonar y conflicts la resolví en este repo: https://github.com/Florencia-study/Conflict-exercise-SegundoRepo_TP2
